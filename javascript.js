@@ -1,4 +1,8 @@
+
+
+function myfunction() {
 let message = prompt("hello, please enter your password that zander gave you")
+
 
 switch(message) {
     case 'S293821':
@@ -28,5 +32,5 @@ switch(message) {
     default:
         alert("wrong password... please try again")
 }
-
+}
 
